@@ -6,7 +6,7 @@ export const Label = styled.label`
 `;
 
 export const Input = styled.input`
-  width: 260px;
+  width: 300px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 4px;

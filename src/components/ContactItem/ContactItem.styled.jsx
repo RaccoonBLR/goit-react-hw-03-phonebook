@@ -6,9 +6,18 @@ export const Item = styled.li`
   justify-content: space-between;
 `;
 
+export const MessageItem = styled.li`
+  display: block;
+`;
+
 export const ContactText = styled.p`
   display: flex;
   align-items: center;
+  font-size: 20px;
+`;
+
+export const MessageText = styled.p`
+  font-weight: 200;
   font-size: 20px;
 `;
 
